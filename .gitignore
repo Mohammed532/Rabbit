@@ -6,3 +6,5 @@ software/ros2_ws/src/build
 software/ros2_ws/src/log
 software/ros2_ws/src/install
 
+# ignore vim swp files
+*.swp
