@@ -1,14 +1,11 @@
 <?xml version="1.0"?>
 <?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
 <package format="3">
-  <name>teleop</name>
+  <name>wabbit_bringup</name>
   <version>0.0.0</version>
-  <description>Teleop control of Wabbit via different modes (keyboard, BLE, joystick, etc)</description>
-  <maintainer email="m.m.akinbayo@gmail.com">Mo</maintainer>
+  <description>TODO: Package description</description>
+  <maintainer email="m.m.akinbayo@gmail.com">admin</maintainer>
   <license>MIT</license>
-
-  <depend>rclpy</depend>
-  <depend>pynput</depend>
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>
